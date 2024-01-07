@@ -27,11 +27,11 @@ Open the application in your browser: http/localhost/ClassExercise/Dashboard.php
 ## Contributing
 Contributions are welcome! If you find any issues or want to add new features, please submit an issue or create a pull request.
 
-Fork the repository.
-Create your feature branch: git checkout -b feature/new-feature
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin feature/new-feature
-Submit a pull request.
+1. Fork the repository.
+2. Create your feature branch: git checkout -b feature/new-feature
+3. Commit your changes: git commit -m 'Add some feature'
+4. Push to the branch: git push origin feature/new-feature
+5. Submit a pull request.
 
 ## Contact
 If you have any questions or suggestions, please feel free to contact the project team at lewis.muthee@strathmore.edu
