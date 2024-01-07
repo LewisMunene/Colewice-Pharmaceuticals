@@ -17,7 +17,7 @@ Database: MySQL
 Wireframing:Figma
 
 ## Installation
-Clone the repository: git clone https://github.com/your/repository.git
+Clone the repository: git clone https://github.com/LewisMunene/Colewice-Pharmaceuticals.git
 Navigate to the project directory: cd healthcare-system
 Install the dependencies: npm install
 Set up the database (MySQL) and update the configuration files accordingly.
@@ -27,11 +27,11 @@ Open the application in your browser: http/localhost/ClassExercise/Dashboard.php
 ## Contributing
 Contributions are welcome! If you find any issues or want to add new features, please submit an issue or create a pull request.
 
--Fork the repository.
--Create your feature branch: git checkout -b feature/new-feature
--Commit your changes: git commit -m 'Add some feature'
--Push to the branch: git push origin feature/new-feature
--Submit a pull request.
+Fork the repository.
+Create your feature branch: git checkout -b feature/new-feature
+Commit your changes: git commit -m 'Add some feature'
+Push to the branch: git push origin feature/new-feature
+Submit a pull request.
 
 ## Contact
 If you have any questions or suggestions, please feel free to contact the project team at lewis.muthee@strathmore.edu
